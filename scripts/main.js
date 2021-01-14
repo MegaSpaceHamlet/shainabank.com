@@ -18,7 +18,7 @@ function setUserName() {
 		setUerName();
 		} else {
 		localStorage.setItem('name', myName);
-		myHeading.textContent = 'shainabank.com\nwelcomes you,\n' + myName + 'S!';
+		myHeading.textContent = 'shainabank.com\nwelcomes you,\n' + myName + '!';
 		}
 	}
 
